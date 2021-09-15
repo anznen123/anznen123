@@ -7,3 +7,8 @@
 링크
 ====
 
+* 이메일: anznen123@naver.com
+* 블로그: https://tshome.tistory.com
+* 깃허브: https://github.com/eastgeon
+* 유튜브: https://www.youtube.com/channel/UCKpDFJiWmqIC3l_sgOMJ3qQ
+* 인스타그램: https://www.instagram.com/eastgeon
