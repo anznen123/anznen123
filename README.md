@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @anznen123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+소개
 
-<!---
-anznen123/anznen123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+====
+* 모두에게 도움이 되는 프로그램을 만들고 싶어하는 개발자 김동건(eastgeon)입니다.
+* 이곳에서는 저만의 포트폴리오를 소개하기 위해 만들어졌습니다.
+
+링크
+
+====
